@@ -1,9 +1,9 @@
-I denne oppgaven skal du på samme måte som i oppgaven (HTTP COLLECT) bruke  `http.get()`. Bortseett fra at denne gangen vil du bli gitt **tre*** URL'er som de tre første kommandolinje argumentene.
+I denne oppgaven skal du på samme måte som i oppgaven (HTTP COLLECT) bruke  `http.get()`. Bortsett fra at denne gangen vil du bli gitt **tre*** URL'er som de tre første kommandolinje argumentene.
 
 Du må samle innholdet fra hver URL og skrive det ut til skjermen (stdout). Du behøver ikke skrive ut lengden. Bare dataene som en String, en linje per URL. Det du må være oppmerksom på er at du **må** skrive dem ut URLene i samme rekkefølge som de kommer inn.
 
 ----------------------------------------------------------------------
-## HINTS
+## HINT
 
 Ikke forvent at disse tre URLene er "snille med deg"! De vil ikke gi deg svar i den rekkefølgen du håper. Derfor kan du ikke bare skrive de ut når du får svar, fordi da kommer de i feil rekkefølge.
 
